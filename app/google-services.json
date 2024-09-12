@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81127203684",
+    "project_id": "assignment2-88cc2",
+    "storage_bucket": "assignment2-88cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81127203684:android:ed4eb5528635efaf7b9071",
+        "android_client_info": {
+          "package_name": "ca.sheridancollege.chowdrah.assignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfKAN1Zwixvsx5dTpyhCdwYlZCqegCPzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
